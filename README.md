@@ -4,7 +4,7 @@
 This project is a simple CRUD (Create, Read, Update, Delete) application built with Laravel, Vue.js, and Inertia.js. It allows you to manage a list of products with basic operations.
 
 
-Installation
+<h1>Installation</h1>
 Follow these steps to set up the project on your local machine.
 
 Prerequisites
